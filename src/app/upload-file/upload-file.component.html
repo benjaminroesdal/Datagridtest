@@ -1,0 +1,20 @@
+<p-fileUpload #form name="file" [customUpload]="true" (uploadHandler)="showDialog($event, form)"></p-fileUpload>
+
+<p-dialog [(visible)]="display" [style]="{width: '80vw'}">
+  <span class="p-float-label flex-direction-column">
+    <ng-template pTemplate="header">
+      File Information
+    </ng-template>
+    <h1>Image</h1>
+    <p-image *ngIf="display" [src]='getSafeUrl()' width="95" [preview]="true"></p-image>
+    <h1>File Name</h1>
+    <input id="float-input" [(ngModel)]="tempObj.name" type="text" pInputText >
+    <h1>File Type</h1>
+    <p>{{tempObj.type}}</p>
+    <h1>File Size</h1>
+    <p>{{tempObj.size}}</p>
+    <button pTooltip="Submit" (click)="addFile()" pButton>Submit</button>
+  </span>
+</p-dialog>
+
+
