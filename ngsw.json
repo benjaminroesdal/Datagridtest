@@ -1,0 +1,93 @@
+{
+  "configVersion": 1,
+  "timestamp": 1668584171345,
+  "index": "https://benjaminroesdal.github.io/Datagrid2.0/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://benjaminroesdal.github.io/Datagrid2.0/favicon.ico",
+        "https://benjaminroesdal.github.io/Datagrid2.0/index.html",
+        "https://benjaminroesdal.github.io/Datagrid2.0/main.38e7ff83ab7fdbac.js",
+        "https://benjaminroesdal.github.io/Datagrid2.0/manifest.webmanifest",
+        "https://benjaminroesdal.github.io/Datagrid2.0/polyfills.aa815bbf6b9d2c02.js",
+        "https://benjaminroesdal.github.io/Datagrid2.0/runtime.c17fe15854b5099d.js",
+        "https://benjaminroesdal.github.io/Datagrid2.0/styles.e72c2275525b9ec3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-128x128.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-144x144.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-152x152.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-192x192.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-384x384.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-512x512.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-72x72.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-96x96.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/color.dae87a04d07ca92b.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/hue.8b1818380241e6ac.png",
+        "https://benjaminroesdal.github.io/Datagrid2.0/primeicons.0112589c5695a9ed.ttf",
+        "https://benjaminroesdal.github.io/Datagrid2.0/primeicons.943ab24c43224d29.svg",
+        "https://benjaminroesdal.github.io/Datagrid2.0/primeicons.ba3f916dfb64be8c.woff2",
+        "https://benjaminroesdal.github.io/Datagrid2.0/primeicons.f8b9e8a4e401b603.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://benjaminroesdal.github.io/Datagrid2.0/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://benjaminroesdal.github.io/Datagrid2.0/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
+    "https://benjaminroesdal.github.io/Datagrid2.0/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://benjaminroesdal.github.io/Datagrid2.0/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
+    "https://benjaminroesdal.github.io/Datagrid2.0/index.html": "94053f05e4003ebb7ed762210fcbd5e9c7a9f8d6",
+    "https://benjaminroesdal.github.io/Datagrid2.0/main.38e7ff83ab7fdbac.js": "89b8e59cd54d7d9397fe3d6ecff770f3df63c299",
+    "https://benjaminroesdal.github.io/Datagrid2.0/manifest.webmanifest": "63004d93f04e0a680fcd848504adf6b6a20207eb",
+    "https://benjaminroesdal.github.io/Datagrid2.0/polyfills.aa815bbf6b9d2c02.js": "167018b8a65f5f134d50bf9a93cc99c6d7cac3ff",
+    "https://benjaminroesdal.github.io/Datagrid2.0/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
+    "https://benjaminroesdal.github.io/Datagrid2.0/primeicons.943ab24c43224d29.svg": "d3332a45242b8f6edbf3f3c7176a280e7edcd961",
+    "https://benjaminroesdal.github.io/Datagrid2.0/primeicons.ba3f916dfb64be8c.woff2": "55a4b2a5f02e362405d8d874903af0b5f6a6c15d",
+    "https://benjaminroesdal.github.io/Datagrid2.0/primeicons.f8b9e8a4e401b603.woff": "b1648b50be13350fde8b5d9a6fe78354ddcc43e4",
+    "https://benjaminroesdal.github.io/Datagrid2.0/runtime.c17fe15854b5099d.js": "df0f60f75d6ec4945a0991f13bcafb70385bf394",
+    "https://benjaminroesdal.github.io/Datagrid2.0/styles.e72c2275525b9ec3.css": "abed0044a70c3953eda1557f5d8e7fe818cc417b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
